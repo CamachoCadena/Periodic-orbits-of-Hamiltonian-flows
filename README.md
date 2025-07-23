@@ -1,7 +1,7 @@
 # Supplementary code for 'Self-intersecting curves on a pair of pants and periodic orbits of Hamiltonian flows'
 ### by Fernando Camacho-Cadena
 
-This is the supplementary Mathematica code for the paper 'Self-intersecting curves on a pair of pants and periodic orbits of Hamiltonian flows'. The python code was used 
+This is the supplementary Mathematica code for the paper [Self-intersecting curves on a pair of pants and periodic orbits of Hamiltonian flows](PeriodicHamFlows.pdf). The python code was used 
 to make the figures, and is not used in any of the proofs. The code is organized as follows:
 
 ### Section 1: Fock-Goncharov's reconstruction of the holonomy through coordinates
